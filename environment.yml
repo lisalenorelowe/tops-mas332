@@ -1,0 +1,12 @@
+name: mas332
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - wget
+  - xarray
+  - netcdf4
+  - scipy
+  - cartopy
